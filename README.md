@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Ayoub 👋
 
-<!--
-**4y0ub-kkkk/4y0ub-kkkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 💻 I enjoy building practical projects and improving my coding skills every day
+- 🌱 Currently learning and growing through hands-on development
+- 🤝 Open to collaboration on interesting ideas and useful tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 What You'll Find Here
+- Personal experiments and learning projects
+- Clean, simple implementations of core programming concepts
+- Continuous progress as I level up in software development
+
+## 📊 GitHub Stats
+![Ayoub's GitHub stats](https://github-readme-stats.vercel.app/api?username=4y0ub-kkkk&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=4y0ub-kkkk&layout=compact&theme=tokyonight)
+
+## 📫 Contact
+- Open an issue or discussion on any repository if you'd like to connect
+
+---
+⭐ Thanks for visiting my profile.
